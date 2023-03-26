@@ -1,0 +1,187 @@
+mobile_phone,mobile_brand,location,payee,monthly_total_transaction,name,prospective
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Apple,iphone14,Pune,Shopping,"80,000",Raj,90
+Apple,iphone14,Pune,Shopping,"1,00,000",Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Pune,Shopping,70000,Raj,90
+Apple,iphone14,Delhi,Shopping,60000,Raj,90
+Apple,iphone14,Delhi,Shopping,75000,Raj,90
+Apple,iphone6,Delhi,Financial_Institute,30000,Raj,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Financial_Institute,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Delhi,Loan ,30000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,60
+Apple,iphone6,Chennai,Loan ,20000,Kiran,30
+Xiomi,note7,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,30
+Xiomi,note8,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note4,Banglore,Shopping,4000,Surya,20
+Xiomi,note4,Banglore,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note4,Pune,Loan ,4000,Surya,20
+Xiomi,note3,Pune,Loan ,40000,Surya,20
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
+Xiomi,note10,Banglore,Shopping,5000,Pravin,40
+Xiomi,note10,Banglore,Shopping,5000,Surya,40
